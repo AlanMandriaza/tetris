@@ -1,6 +1,6 @@
 
 import React, { useEffect, useRef } from 'react';
-import { initializeCanvas } from './components/board.jsx';
+import { initializeCanvas } from './components/board';
 import './App.css';
 
 function App() {
